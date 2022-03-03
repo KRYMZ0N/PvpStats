@@ -1,0 +1,6 @@
+name: PvpStatistics
+version: '${project.version}'
+main: me.krymz0n.pvpstatistics.Main
+authors: [ KRYMZ0N ]
+description: A Pvp Stats plugin
+website: www.3b3t.me
